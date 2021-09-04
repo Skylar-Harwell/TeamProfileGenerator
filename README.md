@@ -13,4 +13,4 @@ This app is ran in the Terminal and is invoked with the command of "node index.j
 Please reach out with any questions: randompinkerton@gmail.com
 
 ### Screenshots
-![Screenshot1]
+![Screenshot1](images/TeamProfileGeneratorGIF.gif?)
