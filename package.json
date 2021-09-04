@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Skylar-Harwell/TeamProfileGenerator#readme",
   "dependencies": {
     "inquirer": "^8.1.2",
-    "jest": "^27.1.0"
+    "jest": "^27.1.0",
+    "path": "^0.12.7"
   }
 }

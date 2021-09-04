@@ -13,16 +13,6 @@ const outputPath = path.join(OUTPUT_DIR, "team.html");
 const teamMembers = [];
 const idArray = [];
 
-// const team = [
-//     new Manager("Trey", 1, "trey@trey.com"),
-//     new Engineer("Eve", 2, "eve@eve.com"),
-//     new Engineer("Liz", 2, "liz@liz.com"),
-//     new Intern("Scott", 2, "scott@scott.com"),
-//     new Intern("Penny", 2, "penny@penny.com"),
-//     new Intern("Ralph", 2, "ralph@ralph.com"),
-// ];
-
-// fs.writeFileSync(outputPath, render(team), "utf-8");
 function appMenu() {
 
     function createManager() {
